@@ -1,0 +1,27 @@
+<header>
+<body>
+<Perro_request>
+<request>
+<title>Perro</title>
+<!--obligatorio-->	
+<color> Negro </color>
+<!--obligatorio-->	
+<nombre>firulais</nombre>
+<header>
+<body>
+<Perro_request>
+<request>
+<header>
+<body>
+<Perro_request>
+<request>
+<title>Perro</title>
+<!--obligatorio-->	
+<color> blanco </color>
+<!--obligatorio-->	
+<nombre>chanda</nombre>
+<title>Perro</title>
+<!--obligatorio-->	
+<color> Negro </color>
+<!--obligatorio-->	
+
